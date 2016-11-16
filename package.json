@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "antlr4": "^4.5.2",
-    "browserify": "^12.0.1",
+    "browserify": "^13.1.1",
     "gitty": "^3.3.2",
     "jison": "*",
     "jison-lex": "*",
